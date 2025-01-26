@@ -127,9 +127,3 @@ We welcome contributions! If you’re interested:
 - **Developer:** Vasetty Sudheer Prasanna Kumar  
 - **Email:** [sudheerprasannakumarv@gmail.com](mailto:sudheerprasannakumarv@gmail.com)  
 - **LinkedIn:** [Sudheer's Profile](http://linkedin.com/in/sudheer74)
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
